@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "jotter",
+  "version": "1.0.0",
+  "description": "Save notes and conversation context from one AI assistant and load them into another.",
+  "author": {
+    "name": "HelixMediaLabs LLC",
+    "email": "jotter@helixmedialabs.com",
+    "url": "https://jotter.fyi"
+  },
+  "homepage": "https://jotter.fyi",
+  "repository": "https://github.com/HelixMediaLabs/jotter-plugin",
+  "keywords": ["notes", "memory", "handoff", "context", "mcp"]
+}
