@@ -1,0 +1,20 @@
+{
+  "name": "jotter",
+  "version": "1.0.0",
+  "description": "Save notes and conversation context from one AI assistant and load them into another.",
+  "author": {
+    "name": "HelixMediaLabs LLC",
+    "email": "jotter@helixmedialabs.com",
+    "url": "https://jotter.fyi"
+  },
+  "homepage": "https://jotter.fyi",
+  "repository": "https://github.com/HelixMediaLabs/jotter-plugin",
+  "keywords": ["notes", "memory", "handoff", "context", "mcp"],
+  "logo": "logo.svg",
+  "primaryColor": "#B4532A",
+  "mcpServers": {
+    "jotter": {
+      "url": "https://jotter.fyi/mcp"
+    }
+  }
+}
