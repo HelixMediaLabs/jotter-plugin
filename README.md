@@ -14,6 +14,23 @@ you — nothing is captured unless you ask, and nothing ever auto-deletes.
 This plugin only points your agent at the hosted Jotter MCP server
 (`https://jotter.fyi/mcp`) — no code runs locally.
 
+## Installing in Antigravity
+
+```sh
+agy plugin install https://github.com/HelixMediaLabs/jotter-plugin
+```
+
+Sign in when the browser opens. Then say "jot this" to save, or
+"Continue my last handoff".
+
+## Installing in Gemini CLI
+
+```sh
+gemini extensions install https://github.com/HelixMediaLabs/jotter-plugin
+```
+
+Sign in when the browser opens on first use.
+
 ## Getting started
 
 Once installed, just talk to it:
