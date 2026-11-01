@@ -1,20 +1,26 @@
 {
-    "$schema": "https://antigravity.google/schemas/v1/plugin.json",
-    "name": "jotter",
-    "displayName": "Jotter",
-    "description": "Save notes and conversation handoffs from any AI chat, then pick them up in Antigravity, Gemini, ChatGPT, Claude, or a new
-  chat.",
-    "logo": "logo.png",
-    "suggestedPrompts": [
-      "Jot this",
-      "Continue my last handoff",
-      "List my jots"
-    ],
-    "author": {
-      "name": "HelixMediaLabs LLC",
-      "url": "https://jotter.fyi"
-    },
-    "homepage": "https://jotter.fyi",
-    "repository": "https://github.com/HelixMediaLabs/jotter-plugin",
-    "keywords": ["notes", "memory", "handoff", "context", "mcp"]
-  }
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "jotter",
+  "displayName": "Jotter",
+  "description": "Save notes and conversation handoffs from any AI chat, then pick them up in Antigravity, Gemini, ChatGPT, Claude, or a new chat.",
+  "version": "1.0.0",
+  "logo": "logo.png",
+  "suggestedPrompts": [
+    "Jot this",
+    "Continue my last handoff",
+    "List my jots"
+  ],
+  "author": {
+    "name": "HelixMediaLabs LLC",
+    "url": "https://jotter.fyi"
+  },
+  "homepage": "https://jotter.fyi",
+  "repository": "https://github.com/HelixMediaLabs/jotter-plugin",
+  "keywords": [
+    "notes",
+    "memory",
+    "handoff",
+    "context",
+    "mcp"
+  ]
+}
