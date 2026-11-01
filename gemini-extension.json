@@ -1,0 +1,10 @@
+{
+    "name": "jotter",
+    "version": "1.0.0",
+    "description": "Save notes and conversation handoffs from any AI chat, then pick them up in Gemini, ChatGPT, Claude, or a new chat.",
+    "mcpServers": {
+      "jotter": {
+        "httpUrl": "https://jotter.fyi/mcp"
+      }
+    }
+}
